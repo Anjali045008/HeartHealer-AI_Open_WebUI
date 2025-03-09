@@ -3,6 +3,10 @@
 
 **Empathetic, Science-Backed Emotional Wellness Companion**  
 
+Open WebUI Link - https://openwebui.com/m/anjali1/hearthealer-ai
+
+![WhatsApp Image 2025-03-09 at 4 30 53 PM](https://github.com/user-attachments/assets/45726269-5d3b-4f39-b68a-5ee4913d2c9b)
+
 ---
 
 ## Objective  
@@ -41,6 +45,12 @@ docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-
 - Access the interface at `http://localhost:3000` after deployment.  
 
 ---
+### Images
+![WhatsApp Image 2025-03-09 at 4 30 53 PM (1)](https://github.com/user-attachments/assets/15fbfdfe-5470-4933-96d7-4ab1742097be)
+
+### Video
+
+
 
 ## Results: HeartHealer AI in Action  
 
