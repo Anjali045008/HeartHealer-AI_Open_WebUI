@@ -10,8 +10,7 @@ Open WebUI Link - https://openwebui.com/m/anjali1/hearthealer-ai
 ---
 
 ## Objective  
-HeartHealer AI is an AI-powered emotional wellness assistant developed as part of my college project. Designed to provide judgment-free, actionable support, it blends psychological research with empathetic conversational design to help users navigate stress, anxiety, and emotional challenges. Inspired by evidence-based therapeutic practices, HeartHealer AI offers personalized guidance, coping strategies, and a safe space for reflection.  
-
+**HeartHealer AI is an empathetic, science-backed therapist. It is designed to provide judgment-free, actionable support it blends psychological research with empathetic conversational design to help users navigate breakup, divorce, grief, stress, anxiety, and other relationship challenges. Inspired by evidence-based therapeutic practices, HeartHealer AI offers personalized guidance, coping strategies, and a safe space for reflection.**
 ---
 
 ## Technology Stack Used  
