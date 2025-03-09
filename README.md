@@ -52,6 +52,10 @@ docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-
 
 
 
+https://github.com/user-attachments/assets/b5ef8893-2df7-4035-af73-1dc0c20c5931
+
+
+
 ## Results: HeartHealer AI in Action  
 
 ### Example 1:  
@@ -66,7 +70,7 @@ Hello! It takes courage to reach out and talk about your feelings, so I want to 
 ```
 
 
-### Example 1:  
+### Example 2:  
 **User Input**:  
 ```  
 How do I stop missing my ex so much?  
